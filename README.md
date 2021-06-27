@@ -123,4 +123,4 @@ Some considerations for further analysis would include:
 2. Analyzing data collected at the end of each match to identify what elements of the game led to a quicker vs. slower victory so that we can adjust the team strategy mid-game to increase the odds of winning.
 3. Collect data on the specific eSports team's actual performance to identify what areas need to be targeted.
 
-For the full in-depth analysis, please refer to my [Jupyter Notebook](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) or feel free to contact me at [lee.hanjin@gmail.com](mailto:lee.hanjin@gmail.com) with any questions.
+For the full in-depth analysis, please refer to my [Jupyter Notebook](https://github.com/ds-leehanjin/league-of-legends-outcome-classification/blob/master/notebook_final.ipynb) or feel free to contact me at [lee.hanjin@gmail.com](mailto:lee.hanjin@gmail.com) with any questions.
