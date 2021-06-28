@@ -35,7 +35,7 @@ We then move onto Random Forest and XGBoost models to see whether an ensemble me
 Using our final Logistic Regression and XGBoost models, we extract the feature coefficients and importances in order to identify how much impact each of the elements of the game are likely to have on the outcome of each match. Although the model with the best predictive ability was our baseline Logistic Regression model, we check feature importance with both the Logistic Regression and XGBoost that were run on df_select in order to compare how our models interpret our features.
 
     
-![png](output_83_0.png)
+![png](images/output_83_0.png)
     
 
 
@@ -48,7 +48,7 @@ Because our displayed units are in odds, we can see that 1 standard deviation in
 Now we take a look at the feature importance rankings from our XGBoost model to compare to the size of coefficients found in our Logistic Regression Model.
 
     
-![png](output_88_0.png)
+![png](images/output_88_0.png)
     
 
 
@@ -61,7 +61,7 @@ Now, let's take a look at what win rates we get against individual features that
 
 
     
-![png](output_92_0.png)
+![png](images/output_92_0.png)
     
 
 
@@ -72,7 +72,7 @@ We can see that there is a difference of approximately 10 in the number of total
 
 
     
-![png](output_96_0.png)
+![png](images/output_96_0.png)
     
 
 
@@ -82,7 +82,7 @@ Although the difference in the total number of jungle creeps killed between loss
 
 
     
-![png](output_100_0.png)
+![png](images/output_100_0.png)
     
 
 
@@ -91,7 +91,7 @@ This bar plot indicates that there clearly does seem to be a correlation between
 ### Dragons vs Win Rate
 
     
-![png](output_104_0.png)
+![png](images/output_104_0.png)
     
 
 
@@ -100,7 +100,7 @@ We can see here again, that there is a large difference in win rate if the drago
 ### Heralds vs Win Rate
 
     
-![png](output_108_0.png)
+![png](images/output_108_0.png)
     
 
 
